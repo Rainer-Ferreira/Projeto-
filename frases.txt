@@ -1,3 +1,5 @@
-como estudar programação.
-treinamento prático de full stack.
-comit teste para aprender a fazer um push e pull de repositorio para github.
+1. como estudar programação.
+2. treinamento prático de full stack.
+3. comit teste para aprender a fazer um push e pull de repositorio para github.
+4. seja bem vindo ao meu portfólio.
+5. também faço faculdade de Gestão da Tecnologia da Informação (TI).
