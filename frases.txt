@@ -1,0 +1,3 @@
+como estudar programação.
+treinamento prático de full stack.
+comit teste para aprender a fazer um push e pull de repositorio para github.
